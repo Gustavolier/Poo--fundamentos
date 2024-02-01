@@ -1,0 +1,14 @@
+C:\dev\BaltaProjectPoo\bin\Debug\net7.0\BaltaProjectPoo.exe
+C:\dev\BaltaProjectPoo\bin\Debug\net7.0\BaltaProjectPoo.deps.json
+C:\dev\BaltaProjectPoo\bin\Debug\net7.0\BaltaProjectPoo.runtimeconfig.json
+C:\dev\BaltaProjectPoo\bin\Debug\net7.0\BaltaProjectPoo.dll
+C:\dev\BaltaProjectPoo\bin\Debug\net7.0\BaltaProjectPoo.pdb
+C:\dev\BaltaProjectPoo\obj\Debug\net7.0\BaltaProjectPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\BaltaProjectPoo\obj\Debug\net7.0\BaltaProjectPoo.AssemblyInfoInputs.cache
+C:\dev\BaltaProjectPoo\obj\Debug\net7.0\BaltaProjectPoo.AssemblyInfo.cs
+C:\dev\BaltaProjectPoo\obj\Debug\net7.0\BaltaProjectPoo.csproj.CoreCompileInputs.cache
+C:\dev\BaltaProjectPoo\obj\Debug\net7.0\BaltaProjectPoo.dll
+C:\dev\BaltaProjectPoo\obj\Debug\net7.0\refint\BaltaProjectPoo.dll
+C:\dev\BaltaProjectPoo\obj\Debug\net7.0\BaltaProjectPoo.pdb
+C:\dev\BaltaProjectPoo\obj\Debug\net7.0\BaltaProjectPoo.genruntimeconfig.cache
+C:\dev\BaltaProjectPoo\obj\Debug\net7.0\ref\BaltaProjectPoo.dll
